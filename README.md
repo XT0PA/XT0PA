@@ -7,7 +7,7 @@
   <img src="https://svgshare.com/i/11WL.svg" width="100" height="100"/></a>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://svgshare.com/i/11WD.svg" alt="python" width="100" height="100"/></a>
+<img src="https://svgshare.com/i/11e_.svg" alt="python" width="100" height="100"/></a>
 
 
  </p>
