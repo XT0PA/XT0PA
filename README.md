@@ -12,10 +12,10 @@
 
  </p>
 <p align="center">
-<a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
 <img src="https://www.svgrepo.com/show/303177/photoshop-cc-logo.svg" width="55" height="55" /> 
 
-<a href="" target="_blank" rel="noreferrer">
+<a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
 <img src="https://www.svgrepo.com/show/303190/after-effects-cc-logo.svg" width="55" height="55" /> 
 
   
