@@ -4,7 +4,7 @@
 
 
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
-  <img src="https://svgshare.com/i/11WL.svg" width="100" height="100"/></a>
+  <img src="https://svgshare.com/i/12Ki.svg" width="100" height="100"/></a>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://svgshare.com/i/11e_.svg" alt="python" width="100" height="100"/></a>
@@ -12,8 +12,12 @@
 
  </p>
 <p align="center">
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+<a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
 <img src="https://www.svgrepo.com/show/303177/photoshop-cc-logo.svg" width="55" height="55" /> 
+
+<a href="" target="_blank" rel="noreferrer">
+<img src="https://www.svgrepo.com/show/303190/after-effects-cc-logo.svg" width="55" height="55" /> 
+
   
 <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
  <img src="https://www.svgrepo.com/show/303185/premiere-cc-logo.svg" width="55" height="55" />
