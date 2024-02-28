@@ -9,6 +9,9 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://svgshare.com/i/11e_.svg" alt="python" width="100" height="100"/></a>
 
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://www.svgrepo.com/show/391463/html5.svg" alt="python" width="100" height="100"/></a>
+
 
  </p>
 <p align="center">
