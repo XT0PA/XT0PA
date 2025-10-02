@@ -1,10 +1,5 @@
  <h1 align="center">Xtopa - Ehks</h1>
-  <p align="center">
-  <p align="center">
 
-
-
-<p align="center">-</p>
 <a href="https://twitter.com/XT0PA" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/x-Acount?style=flat&logo=x&logoColor=white&labelColor=black&color=black">
 
