@@ -3,10 +3,8 @@
   <p align="center">
 
 
- <h1 align="center"></h1>
 
 <p align="center">-</p>
-<p align="center">
 <a href="https://twitter.com/XT0PA" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/x-Acount?style=flat&logo=x&logoColor=white&labelColor=black&color=black">
 
